@@ -1,5 +1,5 @@
 # Interactive-Devices-2023
-This repo contains the code for touch detection and classification inside the inflatable robot.
+This repo contains the code for touch detection and classification inside an inflatable robot.
 
 **Modules required:**  
 -cv2  
